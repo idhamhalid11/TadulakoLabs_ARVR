@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VuforiaUnityInfo version="7.0">
+    <TargetSet version="5.0" toolVersion="2.8.1">
+        <CylinderTarget name="Tumbler" version="3.0" targetId="1c92138714cb42dcb6627dc97332bf42" sideLength="22.000000" topDiameter="5.000000" bottomDiameter="6.000000" sideImage="Tumbler.Body_scaled.jpg"/>
+    </TargetSet>
+</VuforiaUnityInfo>
